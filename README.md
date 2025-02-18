@@ -1,10 +1,9 @@
 @PasqualeMainolfi
 
-Composer and Computer Scientist.  
-Head of New Technology and Music Languages Department at Scuola di Musica Elettronica  
-Conservatorio “G. Martucci”, Salerno (IT).  
-Professor of Computer Music at Scuola di Musica Elettronica  
-Conservatorio “G. Martucci”, Salerno (IT).  
-Professor of Electroacustics Music Analysis  
-at Scuola di Musica Elettronica  
-Conservatorio "N. Sala", Benevento (IT).  
+_Composer and Computer Scientist_
+
+_Professor of Computer Music
+Dep. of New Technologies and Musical Languages, 
+"G. Martucci” State Conservatoire of Musica (Salerno, IT).
+Professor of Electroacoustic Music Analysis at School of Electronic Music, 
+“N. Sala” State Conservatoire of Music (Benevento, IT)._
